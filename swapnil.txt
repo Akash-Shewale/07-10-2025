@@ -1,3 +1,7 @@
 Read me File :
 
+<<<<<<< HEAD
+New Git Project. Hello 
+=======
 New Git Project. Sagar
+>>>>>>> 53fba0bcd026377af93ed15ecf35c211fbc13d47
